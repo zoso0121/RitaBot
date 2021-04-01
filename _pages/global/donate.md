@@ -1,7 +1,7 @@
 ---
-title: "How to Update to 1.1.7 and Above"
-permalink: /update/
-excerpt: "How to Update."
+title: "Donate to the RITA Bot Project"
+permalink: /donate/
+excerpt: "Doantion Links."
 last_modified_at: 2020-09-08T14:00:00+01:00   #Please Update, The +00:00 is the Time Zone difference
 redirect_from:
   - /theme-setup/
@@ -20,7 +20,7 @@ toc: true
 # TZD = time zone designator (Z or +hh:mm or -hh:mm)
 ---
 
-## Thank you for considering to Donate to the RITA bot project
+## Thank you for considering to Donate to the RITA Bot Project
 Becoming a Sponsor, Supporter or Backer of RitaBot will allow us to continue development long into the future, and constantly strive to add new features and functionality to allow all users to break the language barrier and be heard and understood regardless of the language spoken. 
 
 Making monthly or one-time donations will land you a spot permanently in the History and a mention in our credits on our Website and GitHub.
