@@ -11,7 +11,7 @@ toc: true
 
 RITA is not perfect and there are many places to make mistakes while setting up RITA so here is a little guide to aid you in your problem-solving. As always if you require more assistance join our **[Discord Server](https://discord.gg/mgNR64R)** where someone will help you if none of these solve your problem.
 
-*If you are attempting to solve problems with your bot please setup [webhook logs](https://ritabot.org/troubleshooting) to assist us and yourself in diagnosing the problem's you are experiencing.* 
+*If you are attempting to solve problems with your bot please setup [webhook logs](https://ritabot.gg/troubleshooting) to assist us and yourself in diagnosing the problem's you are experiencing.* 
 
 ### Translation stops every 24 hours or so 
 *Otherwise known as `embedvalue` error*
@@ -56,7 +56,7 @@ RITA is not perfect and there are many places to make mistakes while setting up 
   * Go to Discord and send the following commands:
     * `!t settings dbfix`
    
-* Your bot has now updated the database to correspond to the servers it is in. Please note that if you had this error you may need to go through the [following entry](https://ritabot.org/common-issues/#translation-stops-every-24-hours-or-so).
+* Your bot has now updated the database to correspond to the servers it is in. Please note that if you had this error you may need to go through the [following entry](https://ritabot.gg/common-issues/#translation-stops-every-24-hours-or-so).
 
 
 

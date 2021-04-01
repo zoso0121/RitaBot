@@ -7,7 +7,7 @@ toc: true
 ---
 ## Cookie policy
 
-This cookie policy ("Policy") describes what cookies are and how and they're being used by the ritabot.org website ("Website" or "Service") and any of its related products and services (collectively, "Services"). This Policy is a legally binding agreement between you ("User", "you" or "your") and this Website operator ("Operator", "we", "us" or "our"). You should read this Policy so you can understand the types of cookies we use, the information we collect using cookies and how that information is used. It also describes the choices available to you regarding accepting or declining the use of cookies.
+This cookie policy ("Policy") describes what cookies are and how and they're being used by the ritabot.gg website ("Website" or "Service") and any of its related products and services (collectively, "Services"). This Policy is a legally binding agreement between you ("User", "you" or "your") and this Website operator ("Operator", "we", "us" or "our"). You should read this Policy so you can understand the types of cookies we use, the information we collect using cookies and how that information is used. It also describes the choices available to you regarding accepting or declining the use of cookies.
 
 ## What are cookies?
 

@@ -71,8 +71,8 @@ COOKIE.Law = {
             messageBox.setAttribute("id", "cookie_message");
             messageBox.innerHTML = COOKIE.QueryParams.msg ? bbcodeParser.bbcodeToHtml(decodeURIComponent(COOKIE.QueryParams.msg)) : bbcodeParser.bbcodeToHtml("We use cookies to understand how you use our site and to improve your experience. This includes personalizing content and advertising. To learn more, [url=https://yoursite.com/learnmore]click here[/url]. By continuing to use our site, you accept our use of cookies, revised [url=https://yoursite.com/privacy]Privacy Policy[/url] and [url=https://yoursite.com/tos]Terms of Use[/url]. Still confused? send us an [mail=youremail@gmail.com]email[/mail].");
             var learnmore_text = COOKIE.QueryParams.learnmore ? bbcodeParser.bbcodeToHtml(decodeURIComponent(COOKIE.QueryParams.learnmore)) : bbcodeParser.bbcodeToHtml("")
-            var morelink = "https://ritabot.org/cookie-policy";
-            COOKIE.QueryParams.morelink != undefined ? morelink = COOKIE.QueryParams.morelink : morelink = "https://ritabot.org/cookie-policy/"
+            var morelink = "https://ritabot.gg/cookie-policy";
+            COOKIE.QueryParams.morelink != undefined ? morelink = COOKIE.QueryParams.morelink : morelink = "https://ritabot.gg/cookie-policy/"
             messageBox.innerHTML += " <a id=\"cookie_learnmore_link\" target=\"_blank\" class=\"cookie_link\" href=\"" + decodeURIComponent(morelink) + "\">" + learnmore_text + "</a>";
             if (COOKIE.QueryParams.msg_color != undefined){
                 messageBox.style.color = "#"+COOKIE.QueryParams.msg_color;
