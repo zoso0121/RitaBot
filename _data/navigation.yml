@@ -19,6 +19,8 @@ docs:
     url: /secure/
   - title: "Whats New 1.2.1"
     url: /whats-new/
+  - title: "Donate"
+    url: /global/donate/
   - title: "Usage, Commands & Settings"
     children:
       - title: "Usage"
@@ -69,8 +71,6 @@ docs:
         url: /update/#step-3---deploy-update-in-heroku
       - title: "4. Updating Database"
         url: /update/#step-4---updating-database
-
-        # Updating Database
 
   - title: "C-3PO to RITA Bot Migration"
     url: /migration/

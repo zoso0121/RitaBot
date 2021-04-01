@@ -49,5 +49,9 @@ Bot must have proper permissions in all relevant channels for full functionality
 # Version
 `!t version ` Shows the current version of the bot
 
-# Translations
+# Tasks
 `!t tasks ` Lists all current translation tasks for the channel the command is used in.  
+
+# Doante
+`!t doante oc ` Donation link for open Collective.
+`!t doante github ` Donation link for GitHub.
