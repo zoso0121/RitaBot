@@ -28,7 +28,7 @@ Making monthly or one-time donations will land you a spot permanently in the His
 We're committed to open and transparent accounting and we're thankful that you considered supporting our efforts. If you still want to Donate you can do so at the following locations
 
 ### Via GitHub Sponsors
-* https://github.com/sponsors/RitaBot-Project
+* [https://github.com/sponsors/RitaBot-Project](https://github.com/sponsors/RitaBot-Project)
 
 ### Via Open Collective
-* https://opencollective.com/ritabot-project
+* [https://opencollective.com/ritabot-project](https://opencollective.com/ritabot-project)
