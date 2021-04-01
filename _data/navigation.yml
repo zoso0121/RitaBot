@@ -20,7 +20,7 @@ docs:
   - title: "Whats New 1.2.1"
     url: /whats-new/
   - title: "Donate"
-    url: /global/donate/
+    url: /donate/
   - title: "Usage, Commands & Settings"
     children:
       - title: "Usage"
